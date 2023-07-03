@@ -5,6 +5,13 @@ Google Cloud Skills and certifications:
 * [Google Analytics 4 Certification](https://skillshop.credential.net/d7ae759d-dcfe-4c39-8981-d4f8d8dd545d)
 * [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CAY3BK6X9FYE)
 
+Google Cloud Learning Paths
+* [x] Cloud Computing Foundations 
+* [ ] Cloud Engineer
+* [x] Data Analyst
+* [ ] Data Engineer
+* [ ] Machine Learning Engineer
+
 MITx Data Science MicroMasters Course:
 * [14.310Fx: Data Analysis in Social Science-Assessing Your Knowledge](https://courses.edx.org/certificates/fae366a5e35349388acc59233fc1e8cb)
 * [6.431x: Probability - The Science of Uncertainty and Data](https://courses.edx.org/certificates/b32eb414bc4e4cc5ad64a3cdbcb39709)
