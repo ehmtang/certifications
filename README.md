@@ -1,11 +1,11 @@
 # Certifications
 
-Google Cloud Skills and certifications:
+Google Cloud Skills certifications:
 * [Google Cloud Skills Profile](https://www.cloudskillsboost.google/public_profiles/952ad228-8a6d-43a1-89db-c3c1a0f33523)
 * [Google Analytics 4 Certification](https://skillshop.credential.net/d7ae759d-dcfe-4c39-8981-d4f8d8dd545d)
 * [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CAY3BK6X9FYE)
 
-Google Cloud Learning Paths
+Google Cloud Learning Paths:
 * [x] Cloud Computing Foundations 
 * [ ] Cloud Engineer
 * [x] Data Analyst
